@@ -1,1 +1,2 @@
-# Smart_Contracts_with_Solidity
+# Ethereum - Compatible Blockchain
+
