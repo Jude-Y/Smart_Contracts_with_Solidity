@@ -32,5 +32,5 @@ This contract models company stock plans. It will automatically manage 1000 shar
 
 Here we will demonstrate by adding a fastforward function to proceed to the following year to show how it will actually payout the shares every year to a single employee. Please observe the distributed shares function below as it increases by 250, after using the fastforward function to allow the distribute function to send out shares every year. Also, notice in the end, once you reach the total shares amount of 1000, it sends out a message "Error, exceeded total shares" to prevent from over compensating an employee accidentally.
 
-![gif](TestVideos/Deferredequityplan.gif)
+![gif](TestVideos/DeferredEquityPlan.gif)
 
